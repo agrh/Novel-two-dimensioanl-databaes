@@ -1,5 +1,5 @@
 # Novel-two-dimensioanl-databaes
-The latest work of our group：
+The latest work of our group (two-dimensional materials)：
 
 1：Novel bonding patterns and optoelectronic properties of the two-dimensional SixCy monolayers (DOI:10.1039/c6tc05415c)
 
