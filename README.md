@@ -1,10 +1,10 @@
 # Novel-two-dimensioanl-databaes
 The latest work of our group (two-dimensional materials)：
 
-1：Novel bonding patterns and optoelectronic properties of the two-dimensional SixCy monolayers (DOI:10.1039/c6tc05415c)
+1：Novel bonding patterns and optoelectronic properties of the two-dimensional SixCy monolayers. J. Mater. Chem. C, 2017,5, 3561-3567
 
-2：Two-dimensional stoichiometric boron carbides with unexpected chemical bonding and promising electronic properties (Inside Cover,DOI:10.1039/c7tc04505k)
+2：Two-dimensional stoichiometric boron carbides with unexpected chemical bonding and promising electronic properties (Inside Cover). J. Mater. Chem. C, 2018,6, 1651-1658
 
-3: Two-dimensional tetragonal Titanium Carbide: A high-capacity and high-rate battery material (DOI:10.1021/acs.jpcc.8b03425)
+3: Two-dimensional tetragonal Titanium Carbide: A high-capacity and high-rate battery material. J. Phys. Chem. C, 2018, 122, 27, 15118-15124
 
-4: Novel hydrogenated boron-carbon monolayer with high stability and promising carrier mobility. Phys. Chem. Chem. Phys, 2019, Accepted.
+4: A novel hydrogenated boron–carbon monolayer with high stability and promising carrier mobility. Phys. Chem. Chem. Phys, 2019,21, 2572-2577.
